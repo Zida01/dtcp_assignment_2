@@ -339,7 +339,7 @@ textarea {
   max-width: 400px;
   background-color: #161616;
   overflow: -moz-hidden-unscrollable;
-  height: 75vh;
+  height: 90vh;
   display: flex;
   flex-direction: column;
   margin: 0 auto;
